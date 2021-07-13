@@ -47,7 +47,8 @@ header button{
 }
 .fav-container{
     padding: 0.25rem 1rem;
-    background-color: rgb(243,225,255);
+    background-color: rgb(47,174,128);
+    color: white;
     text-align: center;
 }
 .fav-meals{
